@@ -1,5 +1,6 @@
 <?php
 /* author: burningben
+ * 功能：用户管理
  *time:2013/05/11
 
  */
