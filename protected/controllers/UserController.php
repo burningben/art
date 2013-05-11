@@ -1,5 +1,9 @@
 <?php
-// author: burningben
+/* author: burningben
+ *time:2013/05/11
+
+ */
+
 
 
 class UserController extends Controller
